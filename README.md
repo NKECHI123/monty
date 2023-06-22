@@ -1,1 +1,1 @@
-my first readme
+0x19. C - Stacks, Queues - LIFO, FIFO
